@@ -4,17 +4,17 @@
 <h3 align="center">Analista de Business Intelligence apaixonado por novas tecnologias</h3>
 -->
 
-- 🔭 Currently, I'm working on the Thami Personal Project with Power BI
+- 🔭 Currently, I'm working on the Thami Personal Trainner & Health Project with Power BI
 
 - 🌱 I'm studying Power BI and Python applied to Data Science and Business Intelligence
 
-- 👨‍💻 You can find my work portfolio here on [[GIT LINK]]([GIT LINK])
+- 👨‍💻 You can find my work portfolio here on
+  
+- 📜 Check all my certificates here on  https://shorturl.at/GhEUo
 
 - 💬 Ask me about Python, SQL, Power BI & Excel
 
 - 📫 Contact me via email at fw.bizio@gmail.com
-
-- 📄 Learn more about my career by visiting: https://www.linkedin.com/in/felipe-bizio/
 
 - ⚡ Fun fact about me: My first experiences with computers were in 1998 with a Pentium 166
 
