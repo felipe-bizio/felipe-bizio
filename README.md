@@ -8,7 +8,7 @@
 
 - 🌱 I'm studying Power BI and Python applied to Data Science and Business Intelligence
 
-- 👨‍💻 You can find my work portfolio here on github.com/felipe-bizio?tab=repositories
+- 👨‍💻 You can find my work portfolio here on https://github.com/felipe-bizio?tab=repositories
   
 - 📜 Check all my certificates here on  https://shorturl.at/GhEUo
 
